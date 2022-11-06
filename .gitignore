@@ -151,3 +151,6 @@ gradle-app.setting
 # Ignore build artifacts that I litter outside build/
 deploy/stage/
 deploy/release/
+
+# Don't push copies of mod libraries
+libs/
